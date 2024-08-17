@@ -731,7 +731,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (6700,7900) 0 0
+  «component (6700,7900) 0 1
     «symbol PNP
       «type: QP»
       «description: PNP Bipolar Transistor»
@@ -751,7 +751,7 @@
       «pin (100,200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (6700,6700) 0 0
+  «component (6700,6700) 0 1
     «symbol NPN
       «type: QN»
       «description: NPN Bipolar Transistor»
@@ -771,7 +771,7 @@
       «pin (100,-200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (7900,7300) 2 0
+  «component (7900,7300) 2 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -786,7 +786,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (2500,7900) 0 0
+  «component (2500,7900) 0 1
     «symbol PNP
       «type: QP»
       «description: PNP Bipolar Transistor»
@@ -806,7 +806,7 @@
       «pin (100,200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (2500,6700) 0 0
+  «component (2500,6700) 0 1
     «symbol NPN
       «type: QN»
       «description: NPN Bipolar Transistor»
@@ -826,7 +826,7 @@
       «pin (100,-200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (-1800,7300) 0 0
+  «component (-1800,7300) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -841,7 +841,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1800,7800) 0 0
+  «component (-1800,7800) 0 1
     «symbol V
       «type: V»
       «description: Independent Voltage Source»
@@ -858,7 +858,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1800,8300) 0 0
+  «component (-1800,8300) 0 1
     «symbol V
       «type: V»
       «description: Independent Voltage Source»
@@ -892,7 +892,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (3400,7300) 2 0
+  «component (3400,7300) 2 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -907,7 +907,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (8300,6900) 0 0
+  «component (8300,6900) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -921,7 +921,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-200,7700) 0 0
+  «component (-200,7700) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -935,7 +935,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-300,6900) 0 0
+  «component (-300,6900) 0 1
     «symbol NJF
       «type: JN»
       «description: N-Channel JFET Transistor»
@@ -954,7 +954,7 @@
       «pin (100,-200) (0,0) 1 0 0 0x0 -1 "S"»
     »
   »
-  «component (-1000,5800) 0 0
+  «component (-1000,5800) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -969,7 +969,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1800,9200) 4 0
+  «component (-1800,9200) 4 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -985,7 +985,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (-1200,8400) 12 0
+  «component (-1200,8400) 12 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1017,7 +1017,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-600,5000) 6 0
+  «component (-600,5000) 6 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1031,7 +1031,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-200,4600) 4 0
+  «component (-200,4600) 4 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1045,7 +1045,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-200,5400) 4 0
+  «component (-200,5400) 4 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -1061,7 +1061,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (100,4600) 0 0
+  «component (100,4600) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1076,7 +1076,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (3400,5200) 0 0
+  «component (3400,5200) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1091,7 +1091,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (3400,4600) 0 0
+  «component (3400,4600) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1105,7 +1105,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-2500,6400) 6 0
+  «component (-2500,6400) 6 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1120,7 +1120,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-3100,6400) 6 0
+  «component (-3100,6400) 6 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1134,7 +1134,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (4100,7300) 2 0
+  «component (4100,7300) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1148,7 +1148,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (4400,7600) 0 0
+  «component (4400,7600) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1163,7 +1163,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (4400,7000) 0 0
+  «component (4400,7000) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1212,7 +1212,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (5500,7600) 0 0
+  «component (5500,7600) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1226,7 +1226,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (5500,7000) 0 0
+  «component (5500,7000) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1240,7 +1240,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (800,7600) 0 0
+  «component (800,7600) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1255,7 +1255,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (800,7000) 0 0
+  «component (800,7000) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1270,7 +1270,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (1300,7600) 0 0
+  «component (1300,7600) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1284,7 +1284,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (1300,7000) 0 0
+  «component (1300,7000) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1298,7 +1298,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (2200,7300) 2 0
+  «component (2200,7300) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1312,7 +1312,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (6300,7300) 2 0
+  «component (6300,7300) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1326,7 +1326,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (6000,6300) 0 0
+  «component (6000,6300) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1341,7 +1341,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (6000,8300) 0 0
+  «component (6000,8300) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1356,7 +1356,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (5000,7300) 2 0
+  «component (5000,7300) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1370,7 +1370,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (1800,6400) 0 0
+  «component (1800,6400) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1385,7 +1385,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (1800,8200) 0 0
+  «component (1800,8200) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1400,7 +1400,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1400,5000) 6 0
+  «component (-1400,5000) 6 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -1416,7 +1416,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (-1400,5400) 2 0
+  «component (-1400,5400) 2 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -1432,7 +1432,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (-900,6800) 2 0
+  «component (-900,6800) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1446,7 +1446,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (6700,14300) 0 0
+  «component (6700,14300) 0 1
     «symbol PNP
       «type: QP»
       «description: PNP Bipolar Transistor»
@@ -1466,7 +1466,7 @@
       «pin (100,200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (6700,13100) 0 0
+  «component (6700,13100) 0 1
     «symbol NPN
       «type: QN»
       «description: NPN Bipolar Transistor»
@@ -1486,7 +1486,7 @@
       «pin (100,-200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (7900,13700) 2 0
+  «component (7900,13700) 2 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1501,7 +1501,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (2500,14300) 0 0
+  «component (2500,14300) 0 1
     «symbol PNP
       «type: QP»
       «description: PNP Bipolar Transistor»
@@ -1521,7 +1521,7 @@
       «pin (100,200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (2500,13100) 0 0
+  «component (2500,13100) 0 1
     «symbol NPN
       «type: QN»
       «description: NPN Bipolar Transistor»
@@ -1541,7 +1541,7 @@
       «pin (100,-200) (0,0) 1 0 0 0x0 -1 "E"»
     »
   »
-  «component (-1800,13700) 0 0
+  «component (-1800,13700) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1573,7 +1573,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1800,14700) 0 0
+  «component (-1800,14700) 0 1
     «symbol V
       «type: V»
       «description: Independent Voltage Source»
@@ -1590,7 +1590,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-2100,14200) 0 0
+  «component (-2100,14200) 0 1
     «symbol V
       «type: V»
       «description: Independent Voltage Source»
@@ -1607,7 +1607,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (3400,13700) 2 0
+  «component (3400,13700) 2 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1622,7 +1622,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (8300,13300) 0 0
+  «component (8300,13300) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1636,7 +1636,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-200,14100) 0 0
+  «component (-200,14100) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1650,7 +1650,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-300,13300) 0 0
+  «component (-300,13300) 0 1
     «symbol NJF
       «type: JN»
       «description: N-Channel JFET Transistor»
@@ -1669,7 +1669,7 @@
       «pin (100,-200) (0,0) 1 0 0 0x0 -1 "S"»
     »
   »
-  «component (-1000,12200) 0 0
+  «component (-1000,12200) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1684,7 +1684,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1800,15600) 4 0
+  «component (-1800,15600) 4 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -1700,7 +1700,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (-1200,14800) 12 0
+  «component (-1200,14800) 12 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1715,7 +1715,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-600,11400) 6 0
+  «component (-600,11400) 6 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1729,7 +1729,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-200,11000) 4 0
+  «component (-200,11000) 4 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1743,7 +1743,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-200,11800) 4 0
+  «component (-200,11800) 4 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -1759,7 +1759,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (100,11000) 0 0
+  «component (100,11000) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1774,7 +1774,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (3400,11600) 0 0
+  «component (3400,11600) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1789,7 +1789,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (3400,11000) 0 0
+  «component (3400,11000) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1803,7 +1803,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (-2500,12800) 6 0
+  «component (-2500,12800) 6 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1818,7 +1818,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-3100,12800) 6 0
+  «component (-3100,12800) 6 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1832,7 +1832,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (4100,13700) 2 0
+  «component (4100,13700) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1846,7 +1846,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (4400,14000) 0 0
+  «component (4400,14000) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1861,7 +1861,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (4400,13400) 0 0
+  «component (4400,13400) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1876,7 +1876,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (5500,14000) 0 0
+  «component (5500,14000) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1890,7 +1890,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (5500,13400) 0 0
+  «component (5500,13400) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1904,7 +1904,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (800,14000) 0 0
+  «component (800,14000) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1919,7 +1919,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (800,13400) 0 0
+  «component (800,13400) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -1934,7 +1934,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (1300,14000) 0 0
+  «component (1300,14000) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1948,7 +1948,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (1300,13400) 0 0
+  «component (1300,13400) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1962,7 +1962,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (2200,13700) 2 0
+  «component (2200,13700) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1976,7 +1976,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (6300,13700) 2 0
+  «component (6300,13700) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -1990,7 +1990,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (6000,12700) 0 0
+  «component (6000,12700) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -2005,7 +2005,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (6000,14700) 0 0
+  «component (6000,14700) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -2020,7 +2020,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (5000,13700) 2 0
+  «component (5000,13700) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -2034,7 +2034,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (1800,12800) 0 0
+  «component (1800,12800) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -2049,7 +2049,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (1800,14600) 0 0
+  «component (1800,14600) 0 1
     «symbol C
       «type: C»
       «description: Capacitor»
@@ -2064,7 +2064,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
     »
   »
-  «component (-1400,11400) 6 0
+  «component (-1400,11400) 6 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -2080,7 +2080,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (-1400,11800) 2 0
+  «component (-1400,11800) 2 1
     «symbol D
       «type: D»
       «description: Silicon Diode»
@@ -2096,7 +2096,7 @@
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
     »
   »
-  «component (-900,13200) 2 0
+  «component (-900,13200) 2 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -2110,7 +2110,7 @@
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
   »
-  «component (2400,11800) 0 0
+  «component (2400,11800) 0 1
     «symbol R
       «type: R»
       «description: Resistor(USA Style Symbol)»
@@ -2120,6 +2120,531 @@
       «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
       «text (100,150) 1 7 0 0x1000000 -1 -1 "R45"»
       «text (100,-150) 1 7 0 0x1000000 -1 -1 "1K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (-600,18300) 0 0
+    «symbol NJF
+      «type: JN»
+      «description: N-Channel JFET Transistor»
+      «library file: NJF.txt»
+      «shorted pins: false»
+      «line (100,200) (100,100) 0 0 0x1000000 -1 -1»
+      «line (100,-100) (100,-200) 0 0 0x1000000 -1 -1»
+      «line (100,-100) (-200,-100) 0 0 0x1000000 -1 -1»
+      «line (100,100) (-50,100) 0 0 0x1000000 -1 -1»
+      «line (-50,150) (-50,-150) 0 0 0x1000000 -1 -1»
+      «triangle (-50,-100) (-145,-75) (-145,-125) 0 0 0x1000000 0x3000000 -1 -1»
+      «text (-50,50) 0.5 7 0 0x1000000 -1 -1 "J4"»
+      «text (-50,-50) 0.54 7 0 0x1000000 -1 -1 "J2N5457"»
+      «pin (100,200) (0,0) 1 0 0 0x0 -1 "D"»
+      «pin (-200,-100) (0,0) 1 0 0 0x0 -1 "G"»
+      «pin (100,-200) (0,0) 1 0 0 0x0 -1 "S"»
+    »
+  »
+  «component (-1800,18000) 2 0
+    «symbol D
+      «type: D»
+      «description: Silicon Diode»
+      «library file: Diode.txt»
+      «shorted pins: false»
+      «line (100,80) (-100,80) 0 0 0x1000000 -1 -1»
+      «line (0,200) (0,80) 0 0 0x1000000 -1 -1»
+      «line (0,-200) (0,-70) 0 0 0x1000000 -1 -1»
+      «triangle (0,80) (100,-70) (-100,-70) 0 0 0x1000000 0x2000000 -1 -1»
+      «text (0,0) 0.5 110 0 0x1000000 -1 -1 "D13"»
+      «text (0,0) 0.5 109 0 0x1000000 -1 -1 "1N4007"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "A"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
+    »
+  »
+  «component (-2100,20300) 4 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (130,-150) 1 75 0 0x1000000 -1 -1 "R46"»
+      «text (130,150) 1 75 0 0x1000000 -1 -1 "10K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (-1800,17800) 6 0
+    «symbol D
+      «type: D»
+      «description: Silicon Diode»
+      «library file: Diode.txt»
+      «shorted pins: false»
+      «line (100,80) (-100,80) 0 0 0x1000000 -1 -1»
+      «line (0,200) (0,80) 0 0 0x1000000 -1 -1»
+      «line (0,-200) (0,-70) 0 0 0x1000000 -1 -1»
+      «triangle (0,80) (100,-70) (-100,-70) 0 0 0x1000000 0x2000000 -1 -1»
+      «text (0,0) 0.5 46 0 0x1000000 -1 -1 "D14"»
+      «text (0,0) 0.5 45 0 0x1000000 -1 -1 "1N4007"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "A"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
+    »
+  »
+  «component (-1200,18000) 6 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (-30,0) 0.5 46 0 0x1000000 -1 -1 "C45"»
+      «text (80,0) 0.5 45 0 0x1000000 -1 -1 "1µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (-500,18900) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (-50,100) 0.5 7 0 0x1000000 -1 -1 "R47"»
+      «text (-50,-50) 0.5 7 0 0x1000000 -1 -1 "680"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (300,18600) 0 0
+    «symbol NPN
+      «type: QN»
+      «description: NPN Bipolar Transistor»
+      «library file: NPN.txt»
+      «shorted pins: false»
+      «line (100,180) (-10,70) 0 0 0x1000000 -1 -1»
+      «line (-10,-70) (100,-180) 0 0 0x1000000 -1 -1»
+      «line (-20,0) (-100,0) 0 0 0x1000000 -1 -1»
+      «line (100,-200) (100,-180) 0 0 0x1000000 -1 -1»
+      «line (100,180) (100,200) 0 0 0x1000000 -1 -1»
+      «rect (-20,100) (-10,-100) 0 0 0 0x1000000 0x1000000 -1 0 -1»
+      «triangle (100,-180) (65,-125) (45,-145) 0 0 0x1000000 0x3000000 -1 -1»
+      «text (0,50) 0.5 7 0 0x1000000 -1 -1 "Q16"»
+      «text (0,-50) 0.5 7 0 0x1000000 -1 -1 "BC817-25"»
+      «pin (100,200) (0,0) 1 0 0 0x0 -1 "C"»
+      «pin (-100,0) (0,0) 1 0 0 0x0 -1 "B"»
+      «pin (100,-200) (0,0) 1 0 0 0x0 -1 "E"»
+    »
+  »
+  «component (-2100,20900) 4 0
+    «symbol D
+      «type: D»
+      «description: Silicon Diode»
+      «library file: Diode.txt»
+      «shorted pins: false»
+      «line (100,80) (-100,80) 0 0 0x1000000 -1 -1»
+      «line (0,200) (0,80) 0 0 0x1000000 -1 -1»
+      «line (0,-200) (0,-70) 0 0 0x1000000 -1 -1»
+      «triangle (0,80) (100,-70) (-100,-70) 0 0 0x1000000 0x2000000 -1 -1»
+      «text (-50,-50) 0.5 75 0 0x1000000 -1 -1 "D16"»
+      «text (-200,50) 0.5 75 0 0x1000000 -1 -1 "1N4007"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "A"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "K"»
+    »
+  »
+  «component (-1500,17500) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (-70,100) 0.5 7 0 0x1000000 -1 -1 "R48"»
+      «text (-120,-50) 0.5 7 0 0x1000000 -1 -1 "10mega"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (-1800,20300) 12 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (180,-150) 1 75 0 0x1000000 -1 -1 "C49"»
+      «text (180,150) 1 75 0 0x1000000 -1 -1 "330µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (-2100,18600) 0 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (-100,150) 1 7 0 0x1000000 -1 -1 "C50"»
+      «text (-200,-100) 1 7 0 0x1000000 -1 -1 "150p"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (-2100,19100) 0 1
+    «symbol V
+      «type: V»
+      «description: Independent Voltage Source»
+      «shorted pins: false»
+      «line (0,-130) (0,-200) 0 0 0x1000000 -1 -1»
+      «line (0,200) (0,130) 0 0 0x1000000 -1 -1»
+      «rect (-25,77) (25,73) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-2,50) (2,100) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-25,-73) (25,-77) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «ellipse (-130,130) (130,-130) 0 0 0 0x1000000 0x1000000 -1 -1»
+      «text (-100,0) 1 7 0 0x1000000 -1 -1 "V19"»
+      «text (250,-790) 0.5 39 0 0x1000000 -1 -1 "PULSE 0 10mV 100us 50us 1ns 25us 100us"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (-2100,19600) 0 0
+    «symbol V
+      «type: V»
+      «description: Independent Voltage Source»
+      «shorted pins: false»
+      «line (0,-130) (0,-200) 0 0 0x1000000 -1 -1»
+      «line (0,200) (0,130) 0 0 0x1000000 -1 -1»
+      «rect (-25,77) (25,73) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-2,50) (2,100) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-25,-73) (25,-77) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «ellipse (-130,130) (130,-130) 0 0 0 0x1000000 0x1000000 -1 -1»
+      «text (-100,50) 1 7 0 0x1000000 -1 -1 "V20"»
+      «text (-450,250) 0.5 103 0 0x1000000 -1 -1 "PULSE 5mV 0V 10us 1ns 1ns 1s 10s"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (-2400,19100) 0 0
+    «symbol V
+      «type: V»
+      «description: Independent Voltage Source»
+      «shorted pins: false»
+      «line (0,-130) (0,-200) 0 0 0x1000000 -1 -1»
+      «line (0,200) (0,130) 0 0 0x1000000 -1 -1»
+      «rect (-25,77) (25,73) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-2,50) (2,100) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-25,-73) (25,-77) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «ellipse (-130,130) (130,-130) 0 0 0 0x1000000 0x1000000 -1 -1»
+      «text (-100,0) 1 7 0 0x1000000 -1 -1 "V21"»
+      «text (0,-640) 0.5 39 0 0x1000000 -1 -1 "AC 10mV"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (100,18900) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (-70,50) 0.5 7 0 0x1000000 -1 -1 "R49"»
+      «text (-70,-100) 0.5 7 0 0x1000000 -1 -1 "150K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (-200,18600) 6 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (-30,0) 0.5 46 0 0x1000000 -1 -1 "C51"»
+      «text (30,0) 0.5 45 0 0x1000000 -1 -1 "1µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (700,17700) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (-50,100) 0.5 7 0 0x1000000 -1 -1 "R52"»
+      «text (-50,-50) 0.5 7 0 0x1000000 -1 -1 "100"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (700,18900) 0 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (-70,75) 0.5 7 0 0x1000000 -1 -1 "C47"»
+      «text (-70,-75) 0.5 7 0 0x1000000 -1 -1 "1µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (400,19500) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (-70,100) 0.5 7 0 0x1000000 -1 -1 "R51"»
+      «text (-70,-100) 0.5 7 0 0x1000000 -1 -1 "680"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (700,18300) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (-50,100) 0.5 7 0 0x1000000 -1 -1 "R50"»
+      «text (-50,-50) 0.5 7 0 0x1000000 -1 -1 "10K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (4400,19200) 0 0
+    «symbol PNP
+      «type: QP»
+      «description: PNP Bipolar Transistor»
+      «library file: PNP.txt»
+      «shorted pins: false»
+      «line (100,180) (-10,70) 0 0 0x1000000 -1 -1»
+      «line (-10,-70) (100,-180) 0 0 0x1000000 -1 -1»
+      «line (-20,0) (-100,0) 0 0 0x1000000 -1 -1»
+      «line (100,180) (100,200) 0 0 0x1000000 -1 -1»
+      «line (100,-200) (100,-180) 0 0 0x1000000 -1 -1»
+      «rect (-20,100) (-10,-100) 0 0 0 0x1000000 0x1000000 -1 0 -1»
+      «triangle (-5,75) (50,110) (30,130) 0 0 0x1000000 0x3000000 -1 -1»
+      «text (0,50) 0.5 7 0 0x1000000 -1 -1 "Q15"»
+      «text (0,-50) 0.5 7 0 0x1000000 -1 -1 "BC807-25"»
+      «pin (100,-200) (0,0) 1 0 0 0x0 -1 "C"»
+      «pin (-100,0) (0,0) 1 0 0 0x0 -1 "B"»
+      «pin (100,200) (0,0) 1 0 0 0x0 -1 "E"»
+    »
+  »
+  «component (4400,18000) 0 0
+    «symbol NPN
+      «type: QN»
+      «description: NPN Bipolar Transistor»
+      «library file: NPN.txt»
+      «shorted pins: false»
+      «line (100,180) (-10,70) 0 0 0x1000000 -1 -1»
+      «line (-10,-70) (100,-180) 0 0 0x1000000 -1 -1»
+      «line (-20,0) (-100,0) 0 0 0x1000000 -1 -1»
+      «line (100,-200) (100,-180) 0 0 0x1000000 -1 -1»
+      «line (100,180) (100,200) 0 0 0x1000000 -1 -1»
+      «rect (-20,100) (-10,-100) 0 0 0 0x1000000 0x1000000 -1 0 -1»
+      «triangle (100,-180) (65,-125) (45,-145) 0 0 0x1000000 0x3000000 -1 -1»
+      «text (0,50) 0.5 7 0 0x1000000 -1 -1 "Q17"»
+      «text (0,-50) 0.5 7 0 0x1000000 -1 -1 "BC817-25"»
+      «pin (100,200) (0,0) 1 0 0 0x0 -1 "C"»
+      «pin (-100,0) (0,0) 1 0 0 0x0 -1 "B"»
+      «pin (100,-200) (0,0) 1 0 0 0x0 -1 "E"»
+    »
+  »
+  «component (5600,18600) 2 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (130,0) 1 110 0 0x1000000 -1 -1 "C48"»
+      «text (-130,0) 1 109 0 0x1000000 -1 -1 "33µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (1200,18600) 2 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (130,0) 1 110 0 0x1000000 -1 -1 "C52"»
+      «text (-283,0) 1 111 0 0x1000000 -1 -1 "10µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (6000,18200) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (100,150) 1 7 0 0x1000000 -1 -1 "R54"»
+      «text (100,-150) 1 7 0 0x1000000 -1 -1 "10K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (1800,18600) 2 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (80,0) 1 110 0 0x1000000 -1 -1 "R55"»
+      «text (-80,0) 1 109 0 0x1000000 -1 -1 "90.9"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (2100,18900) 0 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (100,150) 1 7 0 0x1000000 -1 -1 "C53"»
+      «text (100,-150) 1 7 0 0x1000000 -1 -1 "22µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (2100,18300) 0 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (100,150) 1 7 0 0x1000000 -1 -1 "C54"»
+      «text (100,-150) 1 7 0 0x1000000 -1 -1 "22µ"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (3200,18900) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (130,150) 1 7 0 0x1000000 -1 -1 "R56"»
+      «text (130,-150) 1 7 0 0x1000000 -1 -1 "500K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (3200,18300) 0 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (130,150) 1 7 0 0x1000000 -1 -1 "R57"»
+      «text (130,-150) 1 7 0 0x1000000 -1 -1 "500K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (4000,18600) 2 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (80,0) 1 110 0 0x1000000 -1 -1 "R58"»
+      «text (-80,0) 1 109 0 0x1000000 -1 -1 "330K"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
+    »
+  »
+  «component (3700,17600) 0 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (100,150) 1 7 0 0x1000000 -1 -1 "C55"»
+      «text (100,-150) 1 7 0 0x1000000 -1 -1 "100n"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (3700,19600) 0 0
+    «symbol C
+      «type: C»
+      «description: Capacitor»
+      «shorted pins: false»
+      «line (0,200) (0,40) 0 0 0x1000000 -1 -1»
+      «line (0,-40) (0,-200) 0 0 0x1000000 -1 -1»
+      «rect (-130,-40) (130,-30) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «rect (-130,30) (130,40) 0 0 0 0x1000000 0x3000000 -1 0 -1»
+      «text (100,150) 1 7 0 0x1000000 -1 -1 "C56"»
+      «text (100,-150) 1 7 0 0x1000000 -1 -1 "100n"»
+      «pin (0,200) (0,0) 1 0 0 0x0 -1 "+"»
+      «pin (0,-200) (0,0) 1 0 0 0x0 -1 "-"»
+    »
+  »
+  «component (2700,18600) 2 0
+    «symbol R
+      «type: R»
+      «description: Resistor(USA Style Symbol)»
+      «shorted pins: false»
+      «line (0,200) (0,180) 0 0 0x1000000 -1 -1»
+      «line (0,-180) (0,-200) 0 0 0x1000000 -1 -1»
+      «zigzag (-80,180) (80,-180) 0 0 0 0x1000000 -1 -1»
+      «text (80,0) 1 110 0 0x1000000 -1 -1 "R59"»
+      «text (-80,0) 1 109 0 0x1000000 -1 -1 "9.09K"»
       «pin (0,200) (0,0) 1 0 0 0x0 -1 "1"»
       «pin (0,-200) (0,0) 1 0 0 0x0 -1 "2"»
     »
@@ -2180,6 +2705,16 @@
   «net (6000,15200) 1 14 0 "V_pa"»
   «net (-200,14500) 1 14 0 "V_pa"»
   «net (2400,11400) 1 13 0 "GND"»
+  «net (-1500,17100) 1 13 0 "GND"»
+  «net (700,17300) 1 13 0 "GND"»
+  «net (-1800,20100) 1 13 0 "GND"»
+  «net (400,18400) 1 13 0 "GND"»
+  «net (-500,19200) 1 14 0 "V_pa"»
+  «net (400,19900) 1 14 0 "V_pa"»
+  «net (-2100,21200) 1 14 0 "V++"»
+  «net (3700,17100) 1 13 0 "GND"»
+  «net (6000,17800) 1 13 0 "GND"»
+  «net (3700,20100) 1 14 0 "V_pa"»
   «junction (6800,13700)»
   «junction (6800,7300)»
   «junction (6700,13700)»
@@ -2201,10 +2736,18 @@
   «junction (5400,700)»
   «junction (5400,100)»
   «junction (4800,700)»
+  «junction (4500,18600)»
+  «junction (4400,18600)»
   «junction (4400,13700)»
   «junction (4400,7300)»
+  «junction (3700,19900)»
+  «junction (3700,18600)»
+  «junction (3700,17300)»
   «junction (3600,700)»
   «junction (3600,-400)»
+  «junction (3200,19200)»
+  «junction (3200,18600)»
+  «junction (3200,18000)»
   «junction (3200,700)»
   «junction (3000,13700)»
   «junction (3000,12200)»
@@ -2216,6 +2759,7 @@
   «junction (2500,700)»
   «junction (2500,100)»
   «junction (2400,12200)»
+  «junction (2100,18600)»
   «junction (2100,-400)»
   «junction (1900,700)»
   «junction (1800,15000)»
@@ -2236,6 +2780,8 @@
   «junction (1300,6700)»
   «junction (800,13700)»
   «junction (800,7300)»
+  «junction (700,18600)»
+  «junction (700,18000)»
   «junction (600,-400)»
   «junction (600,-1000)»
   «junction (500,1900)»
@@ -2243,6 +2789,8 @@
   «junction (500,900)»
   «junction (500,300)»
   «junction (500,200)»
+  «junction (400,19200)»
+  «junction (100,18600)»
   «junction (-200,13700)»
   «junction (-200,12900)»
   «junction (-200,12600)»
@@ -2253,10 +2801,14 @@
   «junction (-200,6200)»
   «junction (-200,5000)»
   «junction (-200,4200)»
+  «junction (-500,18600)»
+  «junction (-500,18000)»
   «junction (-1000,11800)»
   «junction (-1000,11400)»
   «junction (-1000,5400)»
   «junction (-1000,5000)»
+  «junction (-1500,18000)»
+  «junction (-1500,17800)»
   «junction (-1800,15200)»
   «junction (-1800,14400)»
   «junction (-1800,14000)»
@@ -2267,6 +2819,11 @@
   «junction (-1800,7600)»
   «junction (-1800,6800)»
   «junction (-1800,5400)»
+  «junction (-2100,20600)»
+  «junction (-2100,19300)»
+  «junction (-2100,18900)»
+  «junction (-2100,18200)»
+  «junction (-2100,18000)»
   «wire (6400,-400) (6400,-500) "GND"»
   «wire (6400,1900) (6400,1800) "V+"»
   «wire (6400,700) (6400,0) "N01"»
@@ -2606,6 +3163,91 @@
   «wire (7700,13700) (6800,13700) "N61"»
   «wire (-1000,12600) (-200,12600) "N42"»
   «wire (-1800,11800) (-1800,13200) "N47"»
+  «wire (-2100,19300) (-2100,19400) "N63"»
+  «wire (-2100,18800) (-2100,18900) "N64"»
+  «wire (-2100,19300) (-2400,19300) "N63"»
+  «wire (-2400,18900) (-2100,18900) "N64"»
+  «wire (-2100,18200) (-2100,18400) "N65"»
+  «wire (-2100,20100) (-2100,19800) "N66"»
+  «wire (-1800,20600) (-1800,20500) "N67"»
+  «wire (-1800,20600) (-2100,20600) "N67"»
+  «wire (-2100,20600) (-2100,20700) "N67"»
+  «wire (-2100,20500) (-2100,20600) "N67"»
+  «wire (-2100,21100) (-2100,21200) "V++"»
+  «wire (-2000,18000) (-2100,18000) "N65"»
+  «wire (-2100,17800) (-2000,17800) "N65"»
+  «wire (-2100,17800) (-2100,18000) "N65"»
+  «wire (-1600,18000) (-1500,18000) "N68"»
+  «wire (-1500,18000) (-1500,17800) "N68"»
+  «wire (-1500,17800) (-1600,17800) "N68"»
+  «wire (-1500,17800) (-1500,17700) "N68"»
+  «wire (-2100,18200) (-800,18200) "N65"»
+  «wire (-2100,18000) (-2100,18200) "N65"»
+  «wire (-1500,18000) (-1400,18000) "N68"»
+  «wire (-500,18000) (-500,18100) "N69"»
+  «wire (700,17900) (700,18000) "N69"»
+  «wire (400,19900) (400,19700) "V_pa"»
+  «wire (-500,19200) (-500,19100) "V_pa"»
+  «wire (100,18700) (100,18600) "N70"»
+  «wire (400,19200) (400,18800) "N71"»
+  «wire (100,19200) (100,19100) "N71"»
+  «wire (400,19300) (400,19200) "N71"»
+  «wire (400,19200) (700,19200) "N71"»
+  «wire (700,18100) (700,18000) "N69"»
+  «wire (100,18600) (200,18600) "N70"»
+  «wire (-500,18500) (-500,18600) "N72"»
+  «wire (-400,18600) (-500,18600) "N72"»
+  «wire (-500,18600) (-500,18700) "N72"»
+  «wire (400,19200) (100,19200) "N71"»
+  «wire (700,19200) (700,19100) "N71"»
+  «wire (700,18000) (-500,18000) "N69"»
+  «wire (700,18700) (700,18600) "N73"»
+  «wire (700,18600) (1000,18600) "N73"»
+  «wire (100,18600) (0,18600) "N70"»
+  «wire (700,18600) (700,18500) "N73"»
+  «wire (5800,18600) (6000,18600) "N74"»
+  «wire (6000,18600) (6000,18400) "N74"»
+  «wire (6000,17800) (6000,18000) "GND"»
+  «wire (1600,18600) (1400,18600) "N75"»
+  «wire (3200,18000) (4300,18000) "N76"»
+  «wire (2100,18100) (2100,18000) "N76"»
+  «wire (2100,19200) (2100,19100) "N77"»
+  «wire (2100,18600) (2100,18500) "N78"»
+  «wire (3700,20100) (3700,19900) "V_pa"»
+  «wire (3200,19200) (2100,19200) "N77"»
+  «wire (2100,18700) (2100,18600) "N78"»
+  «wire (2100,18600) (2000,18600) "N78"»
+  «wire (3200,18100) (3200,18000) "N76"»
+  «wire (2100,18000) (3200,18000) "N76"»
+  «wire (4300,19200) (3200,19200) "N77"»
+  «wire (3200,19200) (3200,19100) "N77"»
+  «wire (3200,18600) (3200,18500) "N79"»
+  «wire (4500,18600) (4500,18200) "N80"»
+  «wire (4500,19000) (4500,18600) "N80"»
+  «wire (4500,19400) (4500,19900) "V_pa"»
+  «wire (3700,19900) (4500,19900) "V_pa"»
+  «wire (3700,17300) (3700,17100) "GND"»
+  «wire (3700,18600) (3200,18600) "N79"»
+  «wire (3200,18700) (3200,18600) "N79"»
+  «wire (3700,17400) (3700,17300) "GND"»
+  «wire (3700,19900) (3700,19800) "V_pa"»
+  «wire (4500,17800) (4500,17300) "GND"»
+  «wire (3700,17800) (3700,18600) "N79"»
+  «wire (3800,18600) (3700,18600) "N79"»
+  «wire (3700,19400) (3700,18600) "N79"»
+  «wire (2900,18600) (3000,18600) "N80"»
+  «wire (3400,18200) (4100,18200) "N80"»
+  «wire (4400,18500) (4400,18600) "N80"»
+  «wire (4400,18600) (4200,18600) "N80"»
+  «wire (2500,18600) (2100,18600) "N78"»
+  «wire (4100,18200) (4400,18500) "N80"»
+  «wire (3000,18600) (3400,18200) "N80"»
+  «wire (4500,18600) (4400,18600) "N80"»
+  «wire (4500,17300) (3700,17300) "GND"»
+  «wire (5400,18600) (4500,18600) "N80"»
+  «wire (700,17300) (700,17500) "GND"»
+  «wire (-1500,17100) (-1500,17300) "GND"»
+  «wire (-1000,18000) (-500,18000) "N69"»
   «rect (4220,2120) (6970,-630) 0 0 0 0x800000 0x0 -1 0 -1»
   «rect (250,1800) (1050,350) 0 0 0 0x800000 0x0 -1 0 -1»
   «rect (3800,8710) (7050,5910) 0 0 0 0x800000 0x0 -1 0 -1»
@@ -2616,17 +3258,25 @@
   «rect (620,15120) (2820,12420) 0 0 0 0x800000 0x0 -1 0 -1»
   «rect (-2300,15000) (-1450,13400) 0 0 0 0x800000 0x0 -1 0 -1»
   «rect (-1900,12700) (350,10500) 0 0 0 0x800000 0x0 -1 0 -1»
-  «text (-2400,-1700) 1 7 1 0x1000000 -1 -1 ".tran 1m"»
-  «text (-2400,-1550) 1 7 0 0x1000000 -1 -1 ".ac dec 100 1 10mega"»
-  «text (-2400,-1850) 1 7 1 0x1000000 -1 -1 ".noise V(OUT) V8 dec 10 1 100K "»
-  «text (5500,2000) 1 7 1 0x1000000 -1 -1 "AMP"»
-  «text (3850,8600) 1 7 1 0x1000000 -1 -1 "AMP"»
-  «text (700,8550) 1 7 1 0x1000000 -1 -1 "Pre-AMP"»
-  «text (-2200,8500) 1 7 1 0x1000000 -1 -1 "Mic"»
-  «text (-1850,4200) 1 7 1 0x1000000 -1 -1 "JFET Bias"»
-  «text (3850,15000) 1 7 1 0x1000000 -1 -1 "AMP"»
-  «text (700,14950) 1 7 1 0x1000000 -1 -1 "Pre-AMP"»
-  «text (-2200,14900) 1 7 1 0x1000000 -1 -1 "Mic"»
-  «text (-1850,10600) 1 7 1 0x1000000 -1 -1 "JFET Bias"»
+  «rect (-2600,19900) (-1750,18300) 0 0 0 0x800000 0x0 -1 0 -1»
+  «rect (900,19960) (4800,17210) 0 0 0 0x800000 0x0 -1 0 -1»
+  «rect (-900,19750) (900,17400) 0 0 0 0x800000 0x0 -1 0 -1»
+  «rect (-2200,18300) (-900,17200) 0 0 0 0x800000 0x0 -1 0 -1»
+  «text (-1850,22300) 1 7 1 0x1000000 -1 -1 "ï»¿.tran 0 11ms 10ms"»
+  «text (-1850,22450) 1 7 0 0x1000000 -1 -1 "ï»¿.ac dec 100 1 30K"»
+  «text (-1850,22150) 1 7 1 0x1000000 -1 -1 "ï»¿.noise V(OUT) V8 dec 10 1 100K "»
+  «text (5500,2000) 1 7 1 0x1000000 -1 -1 "ï»¿AMP"»
+  «text (3850,8600) 1 7 1 0x1000000 -1 -1 "ï»¿AMP"»
+  «text (700,8550) 1 7 1 0x1000000 -1 -1 "ï»¿Pre-AMP"»
+  «text (-2200,8500) 1 7 1 0x1000000 -1 -1 "ï»¿Mic"»
+  «text (-1850,4200) 1 7 1 0x1000000 -1 -1 "ï»¿JFET Bias"»
+  «text (3850,15000) 1 7 1 0x1000000 -1 -1 "ï»¿AMP"»
+  «text (700,14950) 1 7 1 0x1000000 -1 -1 "ï»¿Pre-AMP"»
+  «text (-2200,14900) 1 7 1 0x1000000 -1 -1 "ï»¿Mic"»
+  «text (-1850,10600) 1 7 1 0x1000000 -1 -1 "ï»¿JFET Bias"»
+  «text (-2500,19800) 1 7 1 0x1000000 -1 -1 "ï»¿Mic"»
+  «text (950,19850) 1 7 1 0x1000000 -1 -1 "ï»¿AMP"»
+  «text (-850,19650) 1 7 1 0x1000000 -1 -1 "ï»¿Pre-AMP"»
+  «text (-2200,17300) 1 7 1 0x1000000 -1 -1 "ï»¿JFET Bias"»
 »
 
